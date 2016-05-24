@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scrapbooking App</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">स्वागतम</string>
+    <string name="river">नदी </string>
+    <string name="palace">महल </string>
+    <string name="pyramid">पिरामिड </string>
+</resources>
